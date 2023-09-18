@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humberto</h1>
 <h3 align="center">A Robotics and Digital Systems Engineering Student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=humbertobm2&label=Profile%20views&color=0e75b6&style=flat" alt="humbertobm2" /> </p>
+
 
 
 <p align="left">
