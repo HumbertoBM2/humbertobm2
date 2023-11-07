@@ -1,8 +1,8 @@
 
 # About Me
 - My name is Humberto
-- I'm a second year Engineering student
-- Currently pursuing Robotics and Digital Systems Engineering
+- I'm a second year Robotics and Digital Systems Engineering student
+- Currently learning Rust
 - I'm interested in Robotics and cybersecurity
 
 ## Contact
@@ -23,7 +23,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Stats
 
