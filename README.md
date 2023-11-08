@@ -27,8 +27,10 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=midnight-purple)](https://git.io/streak-stats)
+
+
