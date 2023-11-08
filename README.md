@@ -27,10 +27,10 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&card_width=495&show_icons=true&theme=catppuccin_mocha)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&card_width=495&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=catppuccino-mocha)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=tokyonight)
 
 
