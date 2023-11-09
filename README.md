@@ -11,14 +11,14 @@
 
 ## Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,arduino,cpp,c,python,neovim,linux,latex,mysql,nodejs,r,git,matlab,bash,rust,postman)
+![My Skills](https://skillicons.dev/icons?i=js,arduino,cpp,c,python,neovim,linux,latex,mysql,nodejs,r,matlab,bash,git,rust,postman)
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=github_dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&card_width=495&show_icons=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&card_width=495&show_icons=true&theme=github_dark)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=vision-friendly-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=github-dark-blue)
 
 
