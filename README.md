@@ -19,10 +19,10 @@ Hello, I'm a second-year Robotics and Digital Systems Engineering student with a
 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&show_icons=true&theme=aura&card_width=495)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&show_icons=true&theme=midnight-purple&card_width=495)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=aura&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&card_width=495&layout=compact&theme=midnight-purple&langs_count=9)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=aura)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humbertobm2&theme=midnight-purple)
 
 
