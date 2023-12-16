@@ -1,14 +1,7 @@
-# Humberto Barrera 
+<h1 align="center">Humberto Barrera</h1>
 
 ## About Me
 Hello, I'm a second-year Robotics and Digital Systems Engineering student with a passion for both robotics and cybersecurity. Currently diving into the world of Rust, I also enjoy working with C++ and Python.
-
-   <p align="left">
-      <a href="https://github.com/humbertobm2?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/humbertobm2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/humbertobm2?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/humbertobm2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 
 ## Languages and Tools
