@@ -10,9 +10,6 @@ Hello, I'm a second-year Robotics and Digital Systems Engineering student with a
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/humbertobm2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## Contact
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ## Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=neovim,vscode,matlab,r,latex,mysql,nodejs,md,linux,bash,powershell,raspberrypi,python,c,cpp,arduino,js,css,html,git,rust,postman)
