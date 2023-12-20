@@ -5,7 +5,7 @@ Hello, I'm a second-year Robotics and Digital Systems Engineering student with a
 
 
 ## Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=neovim,vscode,matlab,r,latex,mysql,nodejs,md,linux,bash,powershell,raspberrypi,python,c,cpp,arduino,js,css,html,git,rust,postman)
+![My Skills](https://skillicons.dev/icons?i=neovim,vscode,matlab,r,latex,mysql,nodejs,md,linux,bash,powershell,raspberrypi,python,lua,github,c,cpp,arduino,js,css,html,git,rust,postman)
 
 
 ## Stats
