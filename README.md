@@ -1,7 +1,5 @@
 <h1 align="center">Humberto Barrera</h1>
 
-## About Me
-Hello, I'm a second-year Robotics and Digital Systems Engineering student with a passion for both robotics and cybersecurity. Currently diving into the world of Rust, I also enjoy working with C++ and Python.
 
 
 ## Languages and Tools
