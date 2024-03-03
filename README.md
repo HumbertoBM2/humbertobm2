@@ -7,6 +7,13 @@
 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertobm2&show_icons=true&theme=midnight-purple&card_width=480)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertobm2&layout=donut&langs_count=10&show_icons=true&theme=midnight-purple)
+![trophy](https://github-profile-trophy.vercel.app/?username=humbertobm2&theme=tokyonight&margin-w=10&rank=-D,-?)
+
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humbertobm2&theme=tokyonight)
+
+![Top Langs commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humbertobm2&theme=tokyonight)
+
+![Top Langs repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humbertobm2&theme=tokyonight)
+
+![Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humbertobm2&theme=tokyonight)
