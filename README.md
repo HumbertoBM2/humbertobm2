@@ -8,7 +8,7 @@
 
 ## Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=humbertobm2&theme=tokyonight&margin-w=10&rank=-D,-?)
+![trophy](https://github-profile-trophy.vercel.app/?username=humbertobm2&theme=tokyonight&margin-w=10&rank=-D,-?&no-frame=true)
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humbertobm2&theme=tokyonight)
 
