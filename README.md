@@ -11,7 +11,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=humbertobm2&theme=tokyonight&margin-w=10&rank=-D,-?&no-frame=true)
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humbertobm2&theme=tokyonight)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humbertobm2&theme=tokyonight&utcOffset=-6)
 ![Top Langs commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humbertobm2&theme=tokyonight)
 ![Top Langs repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humbertobm2&theme=tokyonight)
 
