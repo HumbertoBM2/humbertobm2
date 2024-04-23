@@ -3,7 +3,7 @@
 
 
 ## Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=neovim,godot,matlab,r,windows,debian,java,latex,mysql,nodejs,md,linux,bash,powershell,raspberrypi,python,lua,github,obsidian,ros,c,cpp,cs,arduino,js,css,html,git,rust,postman)
+![My Skills](https://skillicons.dev/icons?i=neovim,godot,matlab,r,windows,debian,latex,mysql,nodejs,md,linux,bash,powershell,raspberrypi,python,lua,github,obsidian,ros,c,cpp,cs,go,arduino,js,css,html,git,rust,postman)
 
 
 ## Stats
