@@ -14,5 +14,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humbertobm2&theme=tokyonight&utcOffset=-6)
 ![Top Langs commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humbertobm2&theme=tokyonight)
 ![Top Langs repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humbertobm2&theme=tokyonight)
-
 ![Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humbertobm2&theme=tokyonight)
